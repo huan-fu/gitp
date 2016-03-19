@@ -1,2 +1,3 @@
 huan's first tring!
-hello world!
+cout >>  hello world!
+the second modifition.
