@@ -3,4 +3,4 @@ cout >>  hello world!
 the second modifition.
 the thrid modification.
 create a new branch.
-a new feature 2.
+new features 1 and 2.
